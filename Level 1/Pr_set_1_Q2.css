@@ -1,0 +1,16 @@
+/* .Heading{  */
+    /* Using normal method */
+    /* color:red; */
+
+    /* Using RGB method */
+    /* color:rgb(255,0,0); */
+
+    /* Using Hex method*/
+    /* color:#ff0000; */
+/* } */
+
+/*  Alternate method*/
+
+h1,h2,h3{
+    color:red;
+}
